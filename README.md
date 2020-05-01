@@ -1,3 +1,5 @@
+> Optic 6 and 7 are no longer under active development. For the latest verion and LTS see [Optic 8](https://github.com/opticdev/optic)
+
 <h1 align="center">
   <br>
   <br>
